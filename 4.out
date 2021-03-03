@@ -1,0 +1,2 @@
+99 = fn(1, 100)  <== absolute difference
+-1 = fn(1)  <== negate

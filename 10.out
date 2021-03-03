@@ -1,0 +1,4 @@
+5 = fn(3, 3, 3, 6, 6, 6)  <== length of line in 3D space
+9 = fn(3, 3, 3)  <== area of trapezoid
+0 = fn(3, 3)  <== absolute difference
+-3 = fn(3)  <== negate

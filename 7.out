@@ -1,0 +1,3 @@
+0 = fn(39, 318, 115)  <== area of trapezoid
+279 = fn(39, 318)  <== absolute difference
+-39 = fn(39)  <== negate

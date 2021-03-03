@@ -1,0 +1,5 @@
+0 = fn(9, 8, 0, 7, 5, 3, 1, 4)  <== Prof. Erle's cra-cra function
+4 = fn(9, 8, 0, 7, 5, 3)  <== length of line in 3D space
+0 = fn(9, 8, 0)  <== area of trapezoid
+1 = fn(9, 8)  <== absolute difference
+-9 = fn(9)  <== negate
